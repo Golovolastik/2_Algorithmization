@@ -7,10 +7,10 @@ package arrays.oneDimArr;
 public class Task1 {
     public static void main(String[] args) {
         final int N = 10;
-        final int A[] = new int[N];
+        final int[] A = new int[N];
         final int K = 3;
-        OneDimArr.create(A, N);
-        OneDimArr.print(A, N);
+        OneDimArr.initInt(A, N);
+        OneDimArr.printInt(A, N);
         int sum = 0;
         for (int i=0; i<N; i++){
             if (A[i] % K == 0) {
