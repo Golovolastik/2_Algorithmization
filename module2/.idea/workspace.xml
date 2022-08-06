@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d6946b-0490-45f0-a73a-4e3e0b6b62da" name="Changes" comment="Task 6 complete">
-      <change afterPath="$PROJECT_DIR$/src/arrays/oneDimArr/Task7.java" afterDir="false" />
+    <list default="true" id="b9d6946b-0490-45f0-a73a-4e3e0b6b62da" name="Changes" comment="Task 7 complete">
+      <change afterPath="$PROJECT_DIR$/src/arrays/oneDimArr/Task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrays/oneDimArr/OneDimArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/oneDimArr/OneDimArr.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +41,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Task7">
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arrays.oneDimArr.Task3" />
-      <module name="module2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="arrays.oneDimArr.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task8">
     <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="arrays.oneDimArr.Task4" />
       <module name="module2" />
@@ -106,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrays.oneDimArr.Task8" />
+      <module name="module2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arrays.oneDimArr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task8" />
         <item itemvalue="Application.Task7" />
         <item itemvalue="Application.Task6" />
         <item itemvalue="Application.Task5" />
         <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task3" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +130,7 @@
       <workItem from="1659688724068" duration="2714000" />
       <workItem from="1659740645655" duration="776000" />
       <workItem from="1659771769406" duration="1326000" />
-      <workItem from="1659782175889" duration="3131000" />
+      <workItem from="1659782175889" duration="6681000" />
     </task>
     <task id="LOCAL-00001" summary="cant do right now">
       <created>1659633024757</created>
@@ -222,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659783882726</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Task 7 complete">
+      <created>1659790698269</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659790698269</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -253,6 +261,7 @@
     <MESSAGE value="Modified methods and fix errors" />
     <MESSAGE value="Task 5 complete" />
     <MESSAGE value="Task 6 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 6 complete" />
+    <MESSAGE value="Task 7 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 7 complete" />
   </component>
 </project>
