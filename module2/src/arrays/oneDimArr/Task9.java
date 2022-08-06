@@ -39,16 +39,12 @@ public class Task9 {
                 min = arrayNumber.get(i);
             }
         }
-        System.out.println(arraySource);
-        System.out.println(arrayNumber);
-        System.out.println(arrayCount);
-        System.out.println(mostFrequent);
-        System.out.println(min);
         for (int i=0; i<arrayCount.size(); i++){
             if (arrayCount.get(i) == mostFrequent && arrayNumber.get(i) < min){
                 min = arrayNumber.get(i);
             }
         }
+        System.out.println(arraySource);
         System.out.println(min);
 
 
