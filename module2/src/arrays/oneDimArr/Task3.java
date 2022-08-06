@@ -6,7 +6,7 @@ public class Task3 {
     public static void main(String[] args){
         final int N = 10_000;
         double[] arr = new double[N];
-        OneDimArr.initDouble(arr, N);
+        OneDimArr.initDouble(arr);
         int cntPos = 0;
         int cntNeg = 0;
         int cntZero = 0;

@@ -9,8 +9,8 @@ public class Task1 {
         final int N = 10;
         final int[] A = new int[N];
         final int K = 3;
-        OneDimArr.initInt(A, N);
-        OneDimArr.printInt(A, N);
+        OneDimArr.initInt(A);
+        OneDimArr.printInt(A);
         int sum = 0;
         for (int i=0; i<N; i++){
             if (A[i] % K == 0) {

@@ -8,7 +8,7 @@ public class Task2 {
         final int N = 15;
         double[] arr = new double[N];
         final double Z = 2;
-        OneDimArr.initDouble(arr, N);
+        OneDimArr.initDouble(arr);
         //OneDimArr.printDouble(arr, N);
         int cnt = 0;
         for (int i=0; i<N; i++){

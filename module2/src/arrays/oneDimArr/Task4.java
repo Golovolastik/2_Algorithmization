@@ -5,7 +5,7 @@ public class Task4 {
     public static void main(String[] args) {
         final int N = 10;
         double[] arr = new double[N];
-        OneDimArr.initDouble(arr, N);
+        OneDimArr.initDouble(arr);
         double max = arr[0];
         int max_c = 0;
         double min = arr[0];
