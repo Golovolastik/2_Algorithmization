@@ -16,9 +16,15 @@ public class Task8 {
         for (int i=1; i<SIZE; i++){
             min = Math.min(arr[i], min);
             }
+        int countMin = 0;
+        for (int i=0; i<SIZE; i++){
+            if (arr[i] == min){
+                countMin += 1;
+            }
+        }
         System.out.println(min);
-        List<Integer> newArray = new ArrayList<Integer>();
-        int[] newArray = new int[SIZE];
+        final int SIZEOFNEW = SIZE-countMin;
+        int[] newArray = new int[SIZEOFNEW];
         int cnt = 0;
         int countForNewArray = 0;
         while (cnt < SIZE){

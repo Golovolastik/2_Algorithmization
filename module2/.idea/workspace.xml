@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d6946b-0490-45f0-a73a-4e3e0b6b62da" name="Changes" comment="Task 7 complete">
-      <change afterPath="$PROJECT_DIR$/src/arrays/oneDimArr/Task8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrays/oneDimArr/OneDimArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/oneDimArr/OneDimArr.java" afterDir="false" />
+    <list default="true" id="b9d6946b-0490-45f0-a73a-4e3e0b6b62da" name="Changes" comment="Not completed">
+      <change beforePath="$PROJECT_DIR$/src/arrays/oneDimArr/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/oneDimArr/Task8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,7 +128,7 @@
       <workItem from="1659688724068" duration="2714000" />
       <workItem from="1659740645655" duration="776000" />
       <workItem from="1659771769406" duration="1326000" />
-      <workItem from="1659782175889" duration="6681000" />
+      <workItem from="1659782175889" duration="6983000" />
     </task>
     <task id="LOCAL-00001" summary="cant do right now">
       <created>1659633024757</created>
@@ -230,7 +228,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659790698269</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Change random range">
+      <created>1659797479396</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1659797479396</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Not completed">
+      <created>1659797496534</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1659797496534</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -262,6 +274,8 @@
     <MESSAGE value="Task 5 complete" />
     <MESSAGE value="Task 6 complete" />
     <MESSAGE value="Task 7 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 7 complete" />
+    <MESSAGE value="Change random range" />
+    <MESSAGE value="Not completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Not completed" />
   </component>
 </project>
