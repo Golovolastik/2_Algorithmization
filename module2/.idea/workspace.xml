@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b9d6946b-0490-45f0-a73a-4e3e0b6b62da" name="Changes" comment="Task 2 &amp; 3 were completed">
+    <list default="true" id="b9d6946b-0490-45f0-a73a-4e3e0b6b62da" name="Changes" comment="Task 3 complete">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/multiDimArr/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multiDimArr/Task3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +133,7 @@
       <workItem from="1659864235393" duration="987000" />
       <workItem from="1659870138658" duration="529000" />
       <workItem from="1659909527364" duration="2386000" />
-      <workItem from="1659944765046" duration="2011000" />
+      <workItem from="1659944765046" duration="2336000" />
     </task>
     <task id="LOCAL-00001" summary="cant do right now">
       <created>1659633024757</created>
@@ -318,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659912790302</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Task 3 complete">
+      <created>1659950243457</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1659950243457</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,7 +349,6 @@
     <MESSAGE value="add methods for double" />
     <MESSAGE value="rename method" />
     <MESSAGE value="Task2 complete" />
-    <MESSAGE value="Task 3 complete" />
     <MESSAGE value="Task 4 complete" />
     <MESSAGE value="Modified methods and fix errors" />
     <MESSAGE value="Task 5 complete" />
@@ -361,7 +366,8 @@
     <MESSAGE value="Task 1 complete" />
     <MESSAGE value="methods were modified" />
     <MESSAGE value="Task 2 &amp; 3 were completed" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2 &amp; 3 were completed" />
+    <MESSAGE value="Task 3 complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 complete" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

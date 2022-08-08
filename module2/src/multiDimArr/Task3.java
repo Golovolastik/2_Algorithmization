@@ -16,7 +16,7 @@ public class Task3 {
                 if (j == p-1 || i == k-1){
                     System.out.printf("%4d ", array[i][j]);
                 } else {
-                    System.out.printf("     ");
+                    System.out.print("     ");
                 }
             }
             System.out.println();
